@@ -1,0 +1,18 @@
+form{
+    border: 1px solid black;
+    margin:auto
+
+}
+
+form > input{
+
+    margin: 10px;
+    padding: 5px;
+    width: 200px;
+}
+h1 {
+    color: blue;
+    font-size: 30px;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+}
